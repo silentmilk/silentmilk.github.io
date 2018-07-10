@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              Silent Milk
+bio:                "TODO"
+description:        "TODO"
+locale:             en_UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.silentmilk.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -43,7 +43,7 @@ github:             default
 # personal
 location:           Los Angeles, CA
 phone:              310-318-5555
-email:              info@default.com
+email:              silentmillk@gmail.com
 
 # Gems
 gems:
